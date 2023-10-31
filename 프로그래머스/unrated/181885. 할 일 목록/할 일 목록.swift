@@ -8,6 +8,6 @@ func solution(_ todo_list:[String], _ finished:[Bool]) -> [String] {
                 result.append(a)
             } 
         }
-        }
-        return result
+    }
+    return result
 }
